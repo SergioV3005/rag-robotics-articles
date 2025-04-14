@@ -1,0 +1,4 @@
+venv/*
+articles/*
+chunks.pkl
+vector.index

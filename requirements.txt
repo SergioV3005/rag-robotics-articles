@@ -1,0 +1,7 @@
+sentence-transformers
+faiss-cpu
+transformers
+accelerate
+torch
+PyMuPDF
+gradio
